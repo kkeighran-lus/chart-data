@@ -1,0 +1,172 @@
+{
+  "ChartData": {
+    "Single": [
+      {
+        "name": "Germany",
+        "value": 40632,
+        "extra": {
+          "code": "de"
+        }
+      },
+      {
+        "name": "United States",
+        "value": 50000,
+        "extra": {
+          "code": "us"
+        }
+      },
+      {
+        "name": "France",
+        "value": 36745,
+        "extra": {
+          "code": "fr"
+        }
+      },
+      {
+        "name": "United Kingdom",
+        "value": 36240,
+        "extra": {
+          "code": "uk"
+        }
+      },
+      {
+        "name": "Spain",
+        "value": 33000,
+        "extra": {
+          "code": "es"
+        }
+      },
+      {
+        "name": "Italy",
+        "value": 35800,
+        "extra": {
+          "code": "it"
+        }
+      }
+    ],
+    "Multi": [
+      {
+        "name": "Germany",
+        "series": [
+          {
+            "name": "1990",
+            "value": 62000000
+          },
+          {
+            "name": "2010",
+            "value": 73000000
+          },
+          {
+            "name": "2011",
+            "value": 89400000
+          }
+        ]
+      },
+
+      {
+        "name": "USA",
+        "series": [
+          {
+            "name": "1990",
+            "value": 250000000
+          },
+          {
+            "name": "2010",
+            "value": 309000000
+          },
+          {
+            "name": "2011",
+            "value": 311000000
+          }
+        ]
+      },
+
+      {
+        "name": "France",
+        "series": [
+          {
+            "name": "1990",
+            "value": 58000000
+          },
+          {
+            "name": "2010",
+            "value": 50000020
+          },
+          {
+            "name": "2011",
+            "value": 58000000
+          }
+        ]
+      },
+      {
+        "name": "UK",
+        "series": [
+          {
+            "name": "1990",
+            "value": 57000000
+          },
+          {
+            "name": "2010",
+            "value": 62000000
+          }
+        ]
+      }
+    ],
+    "MarketValueHistory": [
+      {
+        "name": "Home Value",
+        "series": [
+          {
+            "name": "01-01-2019",
+            "value": 500000
+          },
+          {
+            "name": "02-01-2019",
+            "value": 515000
+          },
+          {
+            "name": "03-01-2019",
+            "value": 512000
+          },
+          {
+            "name": "04-01-2019",
+            "value": 530000
+          },
+          {
+            "name": "05-01-2019",
+            "value": 525000
+          },
+          {
+            "name": "06-01-2019",
+            "value": 550000
+          },
+          {
+            "name": "07-01-2019",
+            "value": 545000
+          },
+          {
+            "name": "08-01-2019",
+            "value": 545000
+          },
+          {
+            "name": "09-01-2019",
+            "value": 540000
+          },
+          {
+            "name": "10-01-2019",
+            "value": 555000
+          },
+          {
+            "name": "11-01-2019",
+            "value": 556000
+          },
+          {
+            "name": "12-01-2019",
+            "value": 560000
+          }
+        ]
+      }
+    ]
+  }
+
+}
